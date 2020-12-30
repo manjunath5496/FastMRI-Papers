@@ -21,4 +21,9 @@ reconstruction with an open competition: Overview of the 2019 fastMRI challenge<
 Reinforcement Learning </a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/FastMRI-Papers/blob/master/mri(9).pdf" style="text-decoration:none;">State-of-the-art Machine Learning MRI Reconstruction in 2020: Results of the Second fastMRI Challenge</a></li>
   
-   </ul>
+   <li><a target="_blank" href="https://github.com/manjunath5496/FastMRI-Papers/blob/master/mri(10).pdf" style="text-decoration:none;">Benchmarking MRI reconstruction neural
+networks on the fastMRI dataset</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/FastMRI-Papers/blob/master/mri(11).pdf" style="text-decoration:none;">The Feasibility of Fast MRI to Reduce
+CT Radiation Exposure With Acute Traumatic Head Injuries</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/FastMRI-Papers/blob/master/mri(12).pdf" style="text-decoration:none;">DuDoRNet: Learning a Dual-Domain Recurrent Network for Fast MRI Reconstruction with Deep T1 Prior</a></li>
+</ul>
